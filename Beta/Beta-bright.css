@@ -29,8 +29,8 @@
 :root {
 	--header-primary: #8d96a6);
 	--header-secondary: #747d91);
- 	--text-normal: #8d96a6;
-	--text-muted: #2b2e33;
+ 	--text-normal: #1a1a1a;
+	--text-muted: #4b4b4b;
 	--text-link: #00c954;
   --backgroundColor01: #ffffff;
   --backgroundColor02: #f4f4f4;
