@@ -1,6 +1,6 @@
 /**
 * @name Shade
-* @version 5.1
+* @version 2
 * @description Based Off Of Nocturnal by Spectra. Created by Memeverze.
 * @author Memeverze (original by Spectra)
 * @source https://github.com/xcruxiex/themes
@@ -40,8 +40,8 @@ MMMMMMMM               MMMMMMMM    eeeeeeeeeeeeee  mmmmmm   mmmmmm   mmmmmm    e
   --backgroundColor01: #16171a;
   --backgroundColor02: #0f1012;
   --mainColor: #829199;
-  --gradientColor01: #650bdb;
-  --gradientColor02: #e3195c;
+  --gradientColor01: #578ff7;
+  --gradientColor02: #5454f7;
 
   /* Better Hljs */
   --backgroundCode: #1e2731;
