@@ -1,0 +1,43 @@
+/**
+* @name Nocturnal: Eternal
+* @version 6
+* @description Built off of Nocturnal by cruxie (originally by spectra). Modified and maintained by Memeverze.
+* @author Memeverze (original by spectra)
+* @source https://github.com/xcruxiex/themes
+* @website https://betterdiscord.app/theme/Nocturnal
+*/
+@import url("https://raw.githubusercontent.com/Memeverze/custom-dc-theme-memeverze/main/BASE.css");
+@import url("https://raw.githubusercontent.com/Memeverze/custom-dc-theme-memeverze/main/backup.css");
+@import url("https://davart154.github.io/Themes/Icon%20Revert%202023/2023%20Icon%20Revert.css");
+@import url("https://raw.githubusercontent.com/MiniDiscordThemes/SettingsIcons/main/SettingsIcons.theme.css");
+/*
+                                                                                                                                                                     
+███╗   ██╗ ██████╗  ██████╗████████╗██╗   ██╗██████╗ ███╗   ██╗ █████╗ ██╗            ███████╗████████╗███████╗██████╗ ███╗   ██╗ █████╗ ██╗     
+████╗  ██║██╔═══██╗██╔════╝╚══██╔══╝██║   ██║██╔══██╗████╗  ██║██╔══██╗██║     ██╗    ██╔════╝╚══██╔══╝██╔════╝██╔══██╗████╗  ██║██╔══██╗██║     
+██╔██╗ ██║██║   ██║██║        ██║   ██║   ██║██████╔╝██╔██╗ ██║███████║██║     ╚═╝    █████╗     ██║   █████╗  ██████╔╝██╔██╗ ██║███████║██║     
+██║╚██╗██║██║   ██║██║        ██║   ██║   ██║██╔══██╗██║╚██╗██║██╔══██║██║     ██╗    ██╔══╝     ██║   ██╔══╝  ██╔══██╗██║╚██╗██║██╔══██║██║     
+██║ ╚████║╚██████╔╝╚██████╗   ██║   ╚██████╔╝██║  ██║██║ ╚████║██║  ██║███████╗╚═╝    ███████╗   ██║   ███████╗██║  ██║██║ ╚████║██║  ██║███████╗
+╚═╝  ╚═══╝ ╚═════╝  ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝       ╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+                                                                                                                                                                                                                                           
+                                                                                                                                                                     
+*/
+@import url("https://xcruxiex.github.io/themes/core/badges.css");
+@import url("https://xcruxiex.github.io/themes/core/custom-font.css");
+:root {
+	--header-primary: #8d96a6);
+	--header-secondary: #747d91);
+ 	--text-normal: #8d96a6;
+	--text-muted: #2b2e33;
+	--text-link: #00c954;
+  --backgroundColor01: #1f1e31;
+  --backgroundColor02: #13121f;
+  --mainColor: #829199;
+  --gradientColor01: #650bdb;
+  --gradientColor02: #0e58eb;
+
+  /* Better Hljs */
+  --backgroundCode: #1e2731;
+  --backgroundName: rgba(255, 0, 0, .2);
+
+  --customFont: 'gg sans', sans-serif;
+}
