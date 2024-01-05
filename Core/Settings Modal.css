@@ -16,6 +16,6 @@
 
 :root {
 	--settingsmodalbackground: 	transparent;			/* default:	transparent		(lowest bg color of changed windows, change it in case another theme turns them transparent)	*/
-	--settingsmodalwidth: 		1200px;					/* default:	1050px			(width of the settings modal, px/vw)															*/
+	--settingsmodalwidth: 		1600px;					/* default:	1050px			(width of the settings modal, px/vw)															*/
 	--settingsmodalheight: 		85vh;					/* default:	90vh			(height of the settings modal, px/vh)															*/
 }
