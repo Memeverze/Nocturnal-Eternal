@@ -11,7 +11,7 @@ For when default Nocturnal just isn't dark enough, a theme for those who live in
 https://github.com/Memeverze/Nocturnal-Extended/blob/master/themes-files/Nocturnal%3A%20Shade.theme.css
 
 ## Nocturnal: Bright
-For when default Nocturnal just isn't Bright enough, a theme for those who wants to live through hell.
+For when default Nocturnal just isn't Bright enough, a theme for those who wants to live through hell. (REQUIRES LIGHT MODE!)
 
 https://github.com/Memeverze/Nocturnal-Extended/blob/master/themes-files/Nocturnal:%20Bright.theme.css
 
