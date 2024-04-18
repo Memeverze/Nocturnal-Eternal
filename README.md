@@ -1,9 +1,9 @@
 # DISCONTINUED!!!!
-## Due to outdated files that i dont have the time anymore and ive lost interest in this project.
+### Due to outdated files that i dont have the time anymore and ive lost interest in this project.
 # .
 # .
 # .
-All the themes Memeverze modified for Discord.
+### All the themes Memeverze modified for Discord.
 
 ## Nocturnal: Eternal
 For when default Nocturnal just isn't cool enough, a theme for those who are the man behind the slaughter
