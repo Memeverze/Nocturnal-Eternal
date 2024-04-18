@@ -1,3 +1,8 @@
+# DISCONTINUED!!!!
+## Due to outdated files that i dont have the time anymore and ive lost interest in this project.
+# .
+# .
+# .
 All the themes Memeverze modified for Discord.
 
 ## Nocturnal: Eternal
